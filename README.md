@@ -33,3 +33,7 @@ Visualization highlights positive/negative correlations clearly.
 🚀 Next Steps:
 Apply advanced ML models to predict tensile strength.
 Extend dataset for more alloys.
+
+
+## 📂 Dataset
+The dataset used in this project is publicly available from https://www.kaggle.com/discussions/general/242077
